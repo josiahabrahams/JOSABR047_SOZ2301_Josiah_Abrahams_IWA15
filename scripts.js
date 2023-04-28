@@ -17,7 +17,7 @@ const data = {
 const [...first] = data.lists[0][1]
 const [... second  ] = data.lists[1][1] 
 const [...third ]= data.lists[2][1]
-console.log(third[third.length-1])
+
 const result = []
 /**
  * i fixed the length termnology and then
